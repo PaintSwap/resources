@@ -32,6 +32,7 @@
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/paintswap_logo_brandmark_dark.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/paintswap_logo_brandmark_light.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_256.png
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_512.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_1024.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_2048.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_4096.png
