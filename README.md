@@ -39,6 +39,7 @@
 
 ### External:
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/binance.svg
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/binance_black.svg
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/metamask.svg
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/rabby.svg
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/sonic_black.png
