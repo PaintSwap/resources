@@ -44,3 +44,5 @@
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/rabby.svg
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/sonic_black.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/sonic.png
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/walletconnect.svg
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/coinbase.svg
