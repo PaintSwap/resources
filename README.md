@@ -36,3 +36,10 @@
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_1024.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_2048.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/ps_round_4096.png
+
+### External:
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/binance.svg
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/metamask.svg
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/rabby.svg
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/sonic_black.png
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/sonic.png
