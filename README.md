@@ -46,3 +46,4 @@
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/sonic.png
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/walletconnect.svg
 * https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/coinbase.svg
+* https://raw.githubusercontent.com/PaintSwap/resources/refs/heads/main/external/ps_landing_og.png
